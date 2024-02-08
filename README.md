@@ -1,3 +1,3 @@
 Hi, Thank you for taking the time to look over my Data Science Portfolio!
-Incase any of the plotly graphs do not show inside of Github, please view the projects in https://nbviewer.org/. 
+Some of the plotly graphs do not show inside of Github, please copy and paste the project URL in https://nbviewer.org/ to see all visualizations. 
 Have a great day!
